@@ -174,4 +174,5 @@ HTTP リクエストを処理するためのループ。
 ESP32 の WebServer ライブラリを使う場合は必須の処理である。
 
 ---
-
+## License
+MIT License (Attribution Required — © 2025 TatsuyaM2667)
